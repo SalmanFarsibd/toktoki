@@ -6,6 +6,6 @@
     <title>toktoki.net</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>welcome toktoki</h1>
   </body>
 </html>
